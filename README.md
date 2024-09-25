@@ -6,4 +6,4 @@
 
 -✌boot strap을 이용한 웹 사이트 만들어보기
 
-    -😎[배포](https://github.com/KIMJUNGRYUN/BS5-Tour.git)
+😎[배포] (https://github.com/KIMJUNGRYUN/BS5-Tour.git)
